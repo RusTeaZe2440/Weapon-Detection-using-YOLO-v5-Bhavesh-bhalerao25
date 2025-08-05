@@ -77,7 +77,7 @@ When a weapon is detected:
 - A bounding box is drawn around it
 - An email is triggered with the image attached
 
-![weapon detection sample](2.jpg)[300,300] <!-- Replace with actual screenshot -->
+![weapon detection sample](2.jpg){: width="300" height="150" } <!-- Replace with actual screenshot -->
 
 ---
 
